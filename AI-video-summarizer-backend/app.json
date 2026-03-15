@@ -1,0 +1,42 @@
+[
+    {
+        "video_id": "VIDEO_ID_1",
+        "rouge_scores": {
+            "rouge1": {
+                "precision": 0.453,
+                "recall": 0.541,
+                "fmeasure": 0.494
+            },
+            "rouge2": {
+                "precision": 0.267,
+                "recall": 0.321,
+                "fmeasure": 0.292
+            },
+            "rougeL": {
+                "precision": 0.411,
+                "recall": 0.482,
+                "fmeasure": 0.444
+            }
+        }
+    },
+    {
+        "video_id": "VIDEO_ID_2",
+        "rouge_scores": {
+            "rouge1": {
+                "precision": 0.489,
+                "recall": 0.522,
+                "fmeasure": 0.505
+            },
+            "rouge2": {
+                "precision": 0.289,
+                "recall": 0.311,
+                "fmeasure": 0.299
+            },
+            "rougeL": {
+                "precision": 0.422,
+                "recall": 0.453,
+                "fmeasure": 0.437
+            }
+        }
+    }
+]
